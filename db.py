@@ -38,5 +38,5 @@ class Database:
 # db.insert("laptops", "Atin Majumdar", "Dell", "180")
 # db.insert("Modem", "Lee Hunter", "Technicolor", "170")
 # db.insert("Router", "Jennifer Pham", "XB3", "190")
-# db.insert("Modem", "Albert Kingston", "XB6", "79")
+# db.insert("Modem", "Albert Einstein", "XB6", "79")
 # db.insert("Modem", "Pradeep Kumar", "Arris", "150")
